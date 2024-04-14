@@ -1,5 +1,3 @@
-# Mos.ai.co marketing service
-
 # Free the voice of your brand 
 Mos.ai.co is a service which can be connected to Facebook, whatsapp or instagram. It allows companies to have an identity through personalized answers, creating a voice that their customers can hear:
 
