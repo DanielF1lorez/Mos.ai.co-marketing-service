@@ -1,4 +1,3 @@
-# mosaico.digital.github.io
 # Mos.ai.co marketing service
 
 # Free the voice of your brand 
